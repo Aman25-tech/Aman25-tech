@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building scalable Full-Stack apps with clean architecture.<br>👯 Collaborating on open-source web projects & startup ideas.<br>🤝 Learning to navigate and contribute to large-scale MERN codebases.<br>🌱 Deepening my knowledge of Data Structures & Algorithms.<br>💬 Ask me about MERN stack or responsive UI design.<br>⚡ Fun fact: Fluent in Java and JS; still Google how to center a div.
+🔭 Building scalable Full-Stack apps with clean architecture.<br>👯 Collaborating on open-source web projects & startup ideas.<br>🤝 Learning to navigate and contribute to large-scale MERN codebases.<br>🌱 Deepening my knowledge of Data Structures & Algorithms.<br>💬 Ask me about MERN stack or responsive UI design.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aman25-tech&label=Profile%20Views&color=0e75b6&style=flat)
 
