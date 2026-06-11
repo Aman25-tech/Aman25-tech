@@ -37,7 +37,3 @@
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman25-tech&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aman25-tech&theme=vue-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman25-tech&layout=compact&theme=vue-dark&hide_border=true)
