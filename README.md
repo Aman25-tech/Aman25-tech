@@ -1,3 +1,10 @@
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="center">Hi 👋, I'm Aman</h1>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer </h3>
+
+
+
 # 💫 About Me:
 🔭 Building scalable Full-Stack apps with clean architecture.  
 👯 Collaborating on open-source web projects & startup ideas.  
