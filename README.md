@@ -62,7 +62,7 @@ I'm currently exploring **Backend Engineering**, **System Design**, and modern s
 ## 🧰 Developer Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
 </p>
 
 ---
