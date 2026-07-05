@@ -1,94 +1,102 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:6C63FF,100:FF6EC7&height=180&section=header&text=Hey,%20I'm%20Aman%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=62&descSize=16"/>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aman&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20SWE&descAlignY=58&descSize=18"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+with+the+MERN+stack;Sharpening+my+DSA+skills+daily;Open+source+%7C+Startups+%7C+Clean+code;Always+shipping+something+new" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aman;Full+Stack+Developer+%7C+Aspiring+SWE" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman25-tech&label=Profile%20Views&color=6C63FF&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/Aman25-tech?label=Followers&style=flat-square&color=FF6EC7"/>
+</p>
 
 <br/>
 
-### 💻 Building scalable apps • 🌐 Exploring the MERN stack • 🚀 Solving problems one commit at a time
+## 🧠 Quick Facts
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+Learner;Always+Learning+Something+New+%E2%9C%A8"/>
+| | |
+|---|---|
+| 🔭 **Currently building** | Scalable full-stack apps with clean architecture |
+| 🤝 **Collaborating on** | Open-source web projects & startup ideas |
+| 🌱 **Currently learning** | Data Structures & Algorithms, large-scale MERN codebases |
+| 💬 **Talk to me about** | MERN stack, responsive UI design |
+| ⚡ **Fun fact** | I debug better with coffee in hand ☕ |
 
-☕ Powered by coffee, curiosity, and countless Git commits.
+<br/>
 
-</div>
+## 🛠️ Tools of the Trade
 
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 👨‍💻 About Me
+**Languages**
+<br/>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🔭 Building scalable **Full-Stack apps** with clean architecture
-👯 Collaborating on open-source web projects & startup ideas
-🤝 Learning to navigate and contribute to large-scale **MERN** codebases
-🌱 Deepening my knowledge of **Data Structures & Algorithms**
-💬 Ask me about **MERN stack** or **responsive UI design**
-📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/behl-aman) • [Instagram](https://www.instagram.com/aman_behl/)
-💡 I enjoy turning ideas into clean, scalable, and user-friendly applications.
+</td>
+<td valign="top" width="50%">
 
----
+**Web**
+<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 
-## 🚀 Tech Stack
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css"/>
-</p>
+**Databases**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
+</td>
+<td valign="top" width="50%">
 
-### Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
+**Tools**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github"/>
-</p>
+</td>
+</tr>
+</table>
 
-✨ *On a mission to build meaningful technology, keep learning relentlessly, and leave every project better than I found it.*
+<br/>
 
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aman25-tech&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Aman's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman25-tech&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=FF6EC7&icon_color=6C63FF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman25-tech&layout=compact&theme=radical&hide_border=true&title_color=FF6EC7" width="49%"/>
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Aman25-tech&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aman25-tech&theme=radical&hide_border=true&background=00000000" width="60%"/>
 </p>
-
----
-
-## 🌍 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Aman25-tech">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-<a href="https://www.linkedin.com/in/behl-aman">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://www.instagram.com/aman_behl/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-<a href="mailto:college.aman25@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman25-tech&theme=react-dark&hide_border=true&area=true" width="90%"/>
 </p>
 
----
+<br/>
 
-<div align="center">
+## 🤝 Let's Connect
 
-### ✨ "Code. Learn. Build. Repeat."
+<p align="center">
+  <a href="https://www.linkedin.com/in/behl-aman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/aman_behl/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:college.aman25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Aman25-tech&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6EC7,100:6C63FF&height=100&section=footer"/>
