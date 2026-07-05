@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24&text=Aman&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24&text=Aman&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Full%20Stack%20Developer%20•%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=20&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+Aman;💻+Full+Stack+Developer;🚀+Aspiring+Software+Engineer;⚡+MERN+Stack+Enthusiast;🧠+DSA+Learner;✨+Always+Building+Something+Cool"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4b1a5017e987.gif" width="500">
 
 <br>
 
@@ -13,11 +15,13 @@
 
 ### ⚡ Building scalable products • Writing clean code • Learning every day
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,24"/>
+
 </div>
 
----
-
 # 🚀 About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+ideas+into+scalable+products...;Debugging+life+one+commit+at+a+time...;Currently+leveling+up+my+DSA+game..." alt="about typing"/>
 
 ```yaml
 Name: Aman
@@ -42,7 +46,7 @@ Goal:
 
 ☕ Coffee + Code + Curiosity = Productivity.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,24"/>
 
 # 🛠 Tech Stack
 
@@ -52,15 +56,11 @@ Goal:
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css&theme=dark"/>
 </p>
 
----
-
 ## 🎨 Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite&theme=dark"/>
 </p>
-
----
 
 ## ⚙ Backend
 
@@ -68,15 +68,13 @@ Goal:
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
 </p>
 
----
-
 ## 🧰 Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,24"/>
 
 # 📈 GitHub Analytics
 
@@ -94,17 +92,7 @@ Goal:
 
 </p>
 
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman25-tech&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,24"/>
 
 # 🌐 Connect With Me
 
@@ -138,10 +126,10 @@ Goal:
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
----
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Aman25-tech&style=for-the-badge&color=0EA5E9"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&animation=twinkling"/>
 
 </div>
